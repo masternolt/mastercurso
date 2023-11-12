@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <PageTitle 
-        title='Hello Worlds'
+        title='Hello Worlds' 
       />
     </>
   );
