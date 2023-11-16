@@ -1,12 +1,10 @@
-import { PageTitle } from '../components/PageTitle';
+import { Header } from "@/components/Header";
 
 export default function Home() {
 
   return (
     <>
-      <PageTitle 
-        title='Hello Worlds'
-      />
+    <Header signName="Luciano Gael"/>
     </>
   );
 };
